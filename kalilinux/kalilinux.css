@@ -1,0 +1,80 @@
+
+#header{
+     float: left;
+     color: #ffffff;
+     text-align: center;
+     padding: 12px;
+     text-decoration: none;
+     font-size: 18px; 
+     line-height: 25px;
+     border-radius: 4px;
+     background-color: black;
+     text-align: center;
+}
+
+
+body{
+     background-image: url("90448.jpg");
+
+}
+.wireshark {
+     font-weight: bold;
+     border-color: black;
+     color: white;
+
+
+
+     
+}
+
+#imgwire{
+     align-items: end;
+      width: 400px;
+      height: auto;
+     margin-left: 100px; 
+     }
+#Wireshark-Download{
+     align-items: end;
+     width: 400px;
+     height: auto;
+     margin-left:100px;
+
+}
+.Download{
+     margin-bottom: 20px;
+
+     font-weight: bolder;
+     font-size: 2.4em;
+    margin-left: 150px;
+    background-color: black;
+    color: rebeccapurple;
+}
+
+.sticky {
+  
+     position: fixed;
+     top: 0;
+     width: 100%;
+     background-image: url("img/about.jpg");
+     background-color: black;
+    
+   
+   }
+   .sticky + .content {
+     padding-top: auto;
+   }
+   #DotHacker{
+     width: 200px;
+     height: 100px;
+     background-color:auto;
+     padding-left:1px;
+     padding-right:1px;
+     margin-left: 1px;
+     margin-right: 12px;
+     float: right;
+ 
+ 
+   }
+ 
+   
+    
