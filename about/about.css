@@ -1,0 +1,15 @@
+.about-section {
+     padding: 50px;
+     text-align: center;
+     
+     color: #ffffff;
+}
+body{
+     background-image: url("img/about.jpg");
+}
+.active{
+     text-align: center;
+
+background-color: dodgerblue;
+    color: white;
+}
