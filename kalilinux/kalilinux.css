@@ -1,64 +1,66 @@
 
 #header{
      float: left;
-     color: #ffffff;
-     text-align: center;
-     padding: 12px;
-     text-decoration: none;
-     font-size: 18px; 
-     line-height: 25px;
-     border-radius: 4px;
-     background-color: black;
-     text-align: center;
+  color: #ffffff;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+  margin-top: 20px;
+  font-weight: bolder;
+  background-color: rgb(70, 56, 56);
+}
+#header1{
+     background-color: #ffffff;
+
 }
 
-
 body{
-     background-image: url("90448.jpg");
+     background-color: #ffffff;
 
 }
 .wireshark {
      font-weight: bold;
      border-color: black;
-     color: white;
-
-
-
-     
+     color: rgb(0, 0, 0);    
 }
-
 #imgwire{
      align-items: end;
       width: 400px;
       height: auto;
-     margin-left: 100px; 
+    
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
      }
 #Wireshark-Download{
      align-items: end;
-     width: 400px;
-     height: auto;
-     margin-left:100px;
-
+     width: 40%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
 }
 .Download{
-     margin-bottom: 20px;
-
+     width: 35%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block; 
      font-weight: bolder;
      font-size: 2.4em;
-    margin-left: 150px;
-    background-color: black;
-    color: rebeccapurple;
+    color: #000000;
+    text-align: center;
+    background-color: rgb(0, 68, 255);
 }
 
 .sticky {
-  
+     position: sticky;
      position: fixed;
      top: 0;
      width: 100%;
      background-image: url("img/about.jpg");
      background-color: black;
-    
-   
    }
    .sticky + .content {
      padding-top: auto;
@@ -72,9 +74,204 @@ body{
      margin-left: 1px;
      margin-right: 12px;
      float: right;
- 
- 
    }
+ #metasploit{
+
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+}
+ #images{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+ #images2{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+ #images-1{
+     width: 40%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+
+ #howtoinstall{
+    
+  
+     font-weight: bolder;
+     color: #000000;
+     
+ }
+ .nmap1{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+
+ #nmap2{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+ .nmap3{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+ .nmap4{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+ }
+
+.nmapDownload{
+     width: 35%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block; 
+     font-weight: bolder;
+     font-size: 2.4em;
+    color: #000000;
+    text-align: center;
+    background-color: rgb(0, 68, 255);
+}
+
+#Metasploit1{
+     
+     margin-left: auto;
+     margin-right: auto;
+     display: block; 
+     font-weight: bolder;
+     font-size: 2.4em;
+    color: #000000;
+    text-align: center;
+    width: auto;
+    background-color: aqua;
+}
+#Metasploit2{
+     
+     margin-left: auto;
+     margin-right: auto;
+     display: block; 
+     font-weight: bolder;
+     font-size: 2.4em;
+    color: #000000;
+    text-align: center;
+    width: auto;
+    background-color: aqua;   
+
+}
+
+#Metasploit3{
+     display: block; 
+     font-weight: bolder;
+     font-size: 2.4em;
+    color: #000000;
+    text-align: center;
+    
+    width: auto;
+    background-color: aqua;
+    
+    
+
+}
+#john1{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+}
+#john2{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+}
+   
+#john3{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+}
+   
+#john4{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+}
  
+.john5{
+     width: 35%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block; 
+     font-weight: bolder;
+     font-size: 2.4em;
+    color: #000000;
+    text-align: center;
+    background-color: rgb(0, 68, 255);
+
+}
+#aircrack{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+
+}
+#aircrack2{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+
+}
+
+#aircrack3{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+
+}
+#aircrack4{
+     width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block;
+
+
+}
+.air{
+     width: 35%;
+     margin-left: auto;
+     margin-right: auto;
+     display: block; 
+     font-weight: bolder;
+     font-size: 2.4em;
+    color: #000000;
+    text-align: center;
+    background-color: rgb(0, 68, 255);
+}
+
    
     
